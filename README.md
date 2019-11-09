@@ -15,4 +15,5 @@
 |~1~| 1 |~1~|~0~ |~0~| ~1~| ~0~| ~0~ |
 |~0~| 0 |~0~|~1~ |~1~| ~0~| ~1~| ~1~ |
 |~0~| 0 |~1~|~0~ |~0~| ~0~| ~1~| ~0~ |
-é uma contigencia, pois ao final, existe uma combinação que resulta em verdadeiro e outras 3 em falso.
+
+> É uma contigencia, pois ao final existe uma combinação que resulta em verdadeiro e outras 3 em falso.
