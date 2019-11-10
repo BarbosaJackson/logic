@@ -43,4 +43,47 @@
 | ~0~|~0~| ~1~| 0 |~0~| ~1~|~1~| ~0~|
 | ~0~|~0~| ~0~| 0 |~1~| ~0~|~0~| ~0~|
 
-> É uma contradição, pois a ultima operação tem todas as combinações resultam em falso
+> É uma contradição, pois a ultima operação tem todas as combinações resultando em falso
+
+## Questão 5
+### Verifique se as seguintes consequências lógicas são válidas:
+
+### a) (¬p -> q),  (r V ¬q) |= (p V r)
+
+#### I
+| (¬ | p  | -> | q) |
+|:--:|:--:|:--:|:--:|
+| ~0~| ~1~|  1 | ~1~|
+| ~0~| ~1~|  1 | ~1~|
+| ~0~| ~1~|  1 | ~0~|
+| ~0~| ~1~|  1 | ~0~|
+| ~1~| ~0~|  1 | ~1~|
+| ~1~| ~0~|  1 | ~1~|
+| ~1~| ~0~|  0 | ~0~|
+| ~1~| ~0~|  0 | ~0~|
+
+#### II
+| (r | V  | ¬  | q) |
+|:--:|:--:|:--:|:--:|
+| ~1~|  1 | ~0~| ~1~|
+| ~0~|  0 | ~0~| ~1~|
+| ~1~|  1 | ~1~| ~0~|
+| ~0~|  1 | ~1~| ~0~|
+| ~1~|  1 | ~0~| ~1~|
+| ~0~|  0 | ~0~| ~1~|
+| ~1~|  1 | ~1~| ~0~|
+| ~0~|  1 | ~1~| ~0~|
+
+#### III
+| p | V | r |
+|:-:|:-:|:-:|
+|~1~| 1 |~1~|
+|~1~| 1 |~0~|
+|~1~| 1 |~1~|
+|~1~| 1 |~0~|
+|~0~| 1 |~1~|
+|~0~| 0 |~0~|
+|~0~| 1 |~1~|
+|~0~| 0 |~0~|
+
+> As consequências lógicas não são válidas pois existem combinações verdadeiras que na III que não são na I ou na II
