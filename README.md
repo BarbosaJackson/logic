@@ -86,7 +86,7 @@
 |~0~| 1 |~1~|
 |~0~| 0 |~0~|
 
-> As consequências lógicas não são válidas pois existem combinações verdadeiras que na III que não são na I ou na II
+> As consequências lógicas não são válidas pois existem combinações verdadeiras na III que não são na I ou na II
 
 
 ### b) (¬p V q) <-> (r V ¬q) |= (p ^ q)
@@ -157,4 +157,4 @@
 | ~0~| 1 | ~1~|
 | ~0~| 0 | ~0~|
 
-> As consequências lógicas não são válidas pois existem combinações verdadeiras que na III que não são na I ou na II
+> As consequências lógicas não são válidas pois existem combinações verdadeiras na III que não são na I ou na II
