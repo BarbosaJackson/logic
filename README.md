@@ -35,3 +35,12 @@
 > É uma contigencia, pois aparecem tanto verdadeiro quanto falso na ultima operação.
 
 ### c) (p ^ q) ^ ¬(q V p)
+
+| (p | ^ | q) | ^ | ¬ | (q | V | p) |
+|:--:|:-:|:--:|:-:|:-:|:--:|:-:|:--:|
+| ~1~|~1~| ~1~| 0 |~0~| ~1~|~1~| ~1~|
+| ~1~|~0~| ~0~| 0 |~0~| ~0~|~1~| ~1~|
+| ~0~|~0~| ~1~| 0 |~0~| ~1~|~1~| ~0~|
+| ~0~|~0~| ~0~| 0 |~1~| ~0~|~0~| ~0~|
+
+> É uma contradição, pois a ultima operação tem todas as combinações resultam em falso
