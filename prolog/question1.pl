@@ -29,6 +29,6 @@ passou(fabiola, ingles).
 passou(fabiola, informatica).
 passou(fabiola, sociedade).
 
-passou_em(M1, M2):-
-	passou(A1, M1), passou(A1, M2), write(A1), nl, fail.
+passou_em(M1, M2, M3):-
+	passou(A1, M1), passou(A1, M2), passou(A1, M3), write(A1), nl, fail.
 
