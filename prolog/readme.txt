@@ -11,7 +11,7 @@ comando para executar um programa em prolog usando o swi prolog: swipl <file>.pl
 
 ###################################################################################
 
-repositório com todos os códigos: https://github.com/barbosajackson/logic
+repositório com todos os códigos: https://github.com/BarbosaJackson/logic/tree/master/prolog
 -----------------------------------------------------------------------------------
 
 questão 1:
